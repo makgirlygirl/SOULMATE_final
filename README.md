@@ -52,15 +52,4 @@ conda env create --file SOULMATE_env.yaml
 ### Video
 - [Youtube link](#youtubelink)
 
-### Generated Questions
-- SOULMATE Question bank
-  - Search for problems already stored in the SOULMATE database by type.
-  
-- Real-time Question Generation
-  - If you enter your passage, SOULMATE AI will create a new Korean-SAT type questions.
-
-- Problem Solving Screen (Question bank/Real-time Question Generation)
-  - Solving questions and grading
-  - Save as .docx format
-  - Report the wrong questions
 
