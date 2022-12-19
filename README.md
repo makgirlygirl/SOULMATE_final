@@ -23,11 +23,11 @@
 
 ## Demonstration
 
-### Demo: Web Env
-#### Demo: Main page
-#### Demo: Question bank Generation
-#### Demo: Real-time Question Generation
-### Demo: Mobile Env
+### Web Env
+#### Main page
+#### Question bank Generation
+#### Real-time Question Generation
+### Mobile Env
 
 
 ## Development Environment
