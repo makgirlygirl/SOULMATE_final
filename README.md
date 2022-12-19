@@ -13,15 +13,9 @@
 
 ## Table of Contents
 - [Demonstration](#Demonstration)  
-  - [Main page](#Main-page)
-  - [Question bank Generation](#Question-bank-Generation)
-  - [Real-time Question Generation](#Real-time-Question-Generation)
-  - [Make .docx](#Make-.docx)
+
 - [Development Environment](#Development-Environment)
 - [Service Structure](#Service-Structure)
-  - [Question bank Generation](#Question-bank-Generation)
-  - [Real-time Question Generation](#Real-time-Question-Generation)
-
 
 ## Demonstration
 
@@ -29,14 +23,12 @@
 ![메인](https://user-images.githubusercontent.com/65396560/208426845-02104347-6c8c-41b0-af2c-a79c32b379f3.GIF)
 
 ### Question bank Generation
-![문제은행](https://user-images.githubusercontent.com/65396560/208427091-250858fc-3843-46dc-8201-6f0564c8b151.gif)
 
 
 ### Real-time Question Generation
-![실시간](https://user-images.githubusercontent.com/65396560/208426738-a8548782-a5ef-466e-9c0f-bbd878f1e7b5.gif)
+
 
 ### Make .docx
-![워드](https://user-images.githubusercontent.com/65396560/208426925-f162aaca-23d2-44c7-9d40-717e68a7dd77.gif)
 
 
 
