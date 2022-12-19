@@ -17,13 +17,10 @@
 - [Service Structure](#Service-Structure)
   - [Question bank Generation](#Question-bank-Generation)
   - [Real-time Question Generation](#Real-time-Question-Generation)
-<!-- - [Description](#Description)
-  - [Model](#Model)
-  - [Frontend](#Frontend)
-  - [Backend](#Backend) -->
 - [Demonstration](#Demonstration)  
-  - [Video](#Video)
-  - [Generated Questions](#Generated-Questions)
+  - [Demo: Main page](#Demo:-Main-page)
+  - [Demo: Question bank Generation](#Demo:-Question-bank-Generation)
+  - [Demo: Real-time Question Generation](#Demo:-Real-time-Question-Generation)
 
 ## Development Environment
 ![ㅇ](https://user-images.githubusercontent.com/65396560/204125126-9b359837-d020-4ab1-a0b3-2758a671e957.png)
@@ -49,7 +46,8 @@ conda env create --file SOULMATE_env.yaml
 
 ## Demonstration
 
-### Video
-- [Youtube link](#youtubelink)
+### Demo: Main page
+### Demo: Question bank Generation
+### Demo: Real-time Question Generation
 
 
