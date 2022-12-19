@@ -32,7 +32,7 @@
 
 
 ## Development Environment
-![aa](https://user-images.githubusercontent.com/65396560/208435599-85b44e93-47c2-4e74-a652-d31067bbea8e.png)
+<img width="1024" alt="스크린샷 2022-12-19 오후 10 24 35" src="https://user-images.githubusercontent.com/65396560/208435888-dd6aa745-fe3a-4160-a3bd-25254d727701.png">
 
 Create a virtual environment with all requirements.
 
