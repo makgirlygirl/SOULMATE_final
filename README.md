@@ -13,10 +13,8 @@
 
 ## Table of Contents
 - [Demonstration](#Demonstration)  
-  - [Demo: Main page](#Demo:-Main-page)
-  - [Demo: Question bank Generation](#Demo:-Question-bank-Generation)
-  - [Demo: Real-time Question Generation](#Demo:-Real-time-Question-Generation)
-  - [Demo: Mobile Env](#Demo:-Mobile-Env)
+  - [Web Env](#Web-Env)
+  - [Mobile Env](#Mobile-Env)
 - [Development Environment](#Development-Environment)
 - [Service Structure](#Service-Structure)
   - [Question bank Generation](#Question-bank-Generation)
@@ -25,9 +23,10 @@
 
 ## Demonstration
 
-### Demo: Main page
-### Demo: Question bank Generation
-### Demo: Real-time Question Generation
+### Demo: Web Env
+#### Demo: Main page
+#### Demo: Question bank Generation
+#### Demo: Real-time Question Generation
 ### Demo: Mobile Env
 
 
