@@ -1,0 +1,15 @@
+{
+  "short_name": "SOULMATE",
+  "name": "SOULMATE",
+  "icons": [
+    {
+      "src": "logo-index.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
